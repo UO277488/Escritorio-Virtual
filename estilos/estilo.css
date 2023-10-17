@@ -1,0 +1,15 @@
+/*Luis Sánchez de Posada Orihuela UO277488*/
+/* Especificidad: 001 CALCULAR Y COMENTAR*/
+body {
+	font-family: Tahoma, sans-serif;
+	color: #818181;
+	background-color:#fff;
+ }
+/* Especificidad: 001*/
+h1 {
+	color: #fff;
+	background-color:#FF5733;
+	padding: 2em;
+	text-transform: uppercase;
+	text-align: center;
+}
