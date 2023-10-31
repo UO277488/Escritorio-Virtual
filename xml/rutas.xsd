@@ -22,9 +22,9 @@
         <xs:element ref="lugarInicio" />
         <xs:element ref="direccionInicio" />
         <xs:element ref="coordenadasInicio" />
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="referencia" />
+        <xs:element minOccurs="3" maxOccurs="unbounded" ref="referencia" />
         <xs:element ref="recomendación" />
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="hito" />
+        <xs:element minOccurs="3" maxOccurs="unbounded" ref="hito" />
       </xs:sequence>
     </xs:complexType>
   </xs:element>
