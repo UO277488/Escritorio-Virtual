@@ -16,11 +16,14 @@ recomendación, hito*)>
 <!ELEMENT coordenadasInicio (#PCDATA)>
 <!ELEMENT referencia (#PCDATA)>
 <!ELEMENT recomendación (#PCDATA)>
-<!ELEMENT hito (#PCDATA)>
+<!ELEMENT hitos (hito*)>
+<!ELEMENT hito (nombreHito, descriptionHito, distanciaHito, fotografíaHito+, vídeoHito*)>
+<!ELEMENT nombreHito (#PCDATA)>
+<!ELEMENT descriptionHito (#PCDATA)>
+<!ELEMENT distanciaHito (#PCDATA)>
+<!ELEMENT fotografíaHito (#PCDATA)>
+<!ELEMENT vídeoHito (#PCDATA)>
 <!ATTLIST hito 
-    nombre CDATA #REQUIRED
-    descripcion CDATA #REQUIRED
-    coordenadas CDATA #REQUIRED
-    distancia CDATA #REQUIRED
-    fotografía CDATA #REQUIRED
-    vídeo CDATA #IMPLIED>
+    coordenadaLatitud CDATA #REQUIRED
+    coordenadaLongitud CDATA #REQUIRED
+    coordenadaAltitud CDATA #REQUIRED>

@@ -27,6 +27,16 @@
         <referencia>https://www.turismoislamauricio.es/le-morne-brabant/</referencia>
         <referencia>https://www.civitatis.com/es/rio-negro/trekking-morne-brabant/</referencia>
         <recomendación>6/10</recomendación>
+
+        <hitos>
+            
+            <hito coordenadaAltitud ="0.0" coordenadaLatitud = "-20.446696" coordenadaLongitud = "57.330322">
+                <nombreHito>Monte Le Morne</nombreHito>
+                <descriptionHito>Esta preciosa montaña de Mauricio es un paraíso natural que merece la pena visitar.</descriptionHito>
+                <distanciaHito>0.0km</distanciaHito>
+                <fotografíaHito>"media\img\Barbant.jpg"</fotografíaHito>
+            </hito>
+        </hitos>
         <hito nombre="Le Morne" descripcion="monte" coordenadas="-20.446696, 57.330322" distancia="0km" fotografía="media\img\Barbant.jpg" vídeo="xml\media\video\Mauritius.mp4"></hito>
     </ruta>
 
