@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://tempuri.org/rutas" elementFormDefault="qualified" targetNamespace="http://tempuri.org/rutas" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="rutas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ruta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ruta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nombre" />
+        <xs:element ref="tipo" />
+        <xs:element ref="medio" />
+        <xs:element minOccurs="0" maxOccurs="1" ref="fechaInicio" />
+        <xs:element minOccurs="0" maxOccurs="1" ref="fechaFin" />
+        <xs:element ref="tiempo" />
+        <xs:element ref="agencia" />
+        <xs:element ref="descripción" />
+        <xs:element ref="personas" />
+        <xs:element ref="lugarInicio" />
+        <xs:element ref="direccionInicio" />
+        <xs:element ref="coordenadasInicio" />
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="referencia" />
+        <xs:element ref="recomendación" />
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="hito" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nombre" type="xs:string" />
+  <xs:element name="tipo" type="xs:string" />
+  <xs:element name="medio" type="xs:string" />
+  <xs:element name="fechaInicio" type="xs:string" />
+  <xs:element name="fechaFin" type="xs:string" />
+  <xs:element name="tiempo" type="xs:string" />
+  <xs:element name="agencia" type="xs:string" />
+  <xs:element name="descripción" type="xs:string" />
+  <xs:element name="personas" type="xs:string" />
+  <xs:element name="lugarInicio" type="xs:string" />
+  <xs:element name="direccionInicio" type="xs:string" />
+  <xs:element name="coordenadasInicio" type="xs:string" />
+  <xs:element name="referencia" type="xs:string" />
+  <xs:element name="recomendación" type="xs:string" />
+  <xs:element name="hito">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="nombre" type="xs:string" use="required" />
+          <xs:attribute name="descripcion" type="xs:string" use="required" />
+          <xs:attribute name="coordenadas" type="xs:string" use="required" />
+          <xs:attribute name="distancia" type="xs:string" use="required" />
+          <xs:attribute name="fotografía" type="xs:string" use="required" />
+          <xs:attribute name="vídeo" type="xs:string" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
