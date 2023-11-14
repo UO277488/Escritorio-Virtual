@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns="http://tempuri.org/rutas" elementFormDefault="qualified" targetNamespace="http://tempuri.org/rutas" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema elementFormDefault="qualified" 
+xmlns="http://www.uniovi.es" 
+targetNamespace="http://www.uniovi.es" 
+xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:element name="rutas">
     <xs:complexType>
       <xs:sequence>

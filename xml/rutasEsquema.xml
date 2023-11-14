@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rutas SYSTEM "rutas.dtd">
+<rutas xsi:schemaLocation="http://www.uniovi.es rutas.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="http://www.uniovi.es">
+
+    <ruta>
+        <nombre>Black River - L'Embasure</nombre>
+        <tipo>Senderismo</tipo>
+        <medio>A Pie</medio>
+        <fechaInicio>8:33 21 ago. 2019</fechaInicio>
+        <fechaFin>13:37 21 ago. 2019</fechaFin>
+        <tiempo>5 horas 3 minutos</tiempo>
+        <agencia>Sin agencia</agencia>
+        <descripción>
+            Comenzamos por la playa hasta el final de la misma. Allí optamos por coger una senda que sale hacia arriba y nos ahorramos un tramo de recorrido. Otra opción es continuar por el camino del borde del mar y después hacer un giro a la izquierda. El camino no tiene pérdida, es ancho y está muy transitado porque sube mucha gente a pie.
+            El último tramo de la ruta, desde una curva a izquierda antes de una larga recta (en el trak) es una "trepada técnica", se sube por una canal de piedra y de ahí a la cumbre hay varios resaltes en los que no nos podemos caer.
+            Lo digo porque sube mucha gente, nosotros tuvimos que hacer varias paradas para dejar pasará gente. Y además, el 90% de la gente no va preparada.
+            Importante: llevar buen calzado y agua, el sol pega en toda la zona de roca.
+            Cuidado: si el viento es fuerte y sobre todo, si está húmeda la roca.
+            La gente que no se vea capacitada, puede llegar hasta el inicio de la roca (está indicado con unos paneles) y ver el mirador que tiene un banco, las vistas son bonitas, y el otro mirador anterior con otro banco
+        </descripción>
+        <personas>Personas en buena forma física</personas>
+        <lugarInicio>Hotel Riu Creole (Le Morne)</lugarInicio>
+        <direccionInicio>Pointe Sud Ouest, MU, Le Morne 91202, Mauricio</direccionInicio>
+        <coordenadasInicio>-20.467220, 57.313791</coordenadasInicio>
+        <referencia>https://es.wikiloc.com/rutas-senderismo/le-morne-isla-mauricio-40326405</referencia>
+        <referencia>https://www.turismoislamauricio.es/le-morne-brabant/</referencia>
+        <referencia>https://www.civitatis.com/es/rio-negro/trekking-morne-brabant/</referencia>
+        <recomendación>6</recomendación>
+            
+        <hito coordenadaAltitud ="556" coordenadaLatitud = "-20.452485" coordenadaLongitud = "57.323929">
+            <nombreHito>Monte Le Morne</nombreHito>
+            <descriptionHito>Esta preciosa montaña de Mauricio es un paraíso natural que merece la pena visitar.</descriptionHito>
+            <distanciaHito>7,5 km</distanciaHito>
+            <fotografíaHito>"Barbant.jpg"</fotografíaHito>
+            <vídeoHito>"Mauritius.mp4"</vídeoHito>
+        </hito>
+
+        <hito coordenadaAltitud ="0" coordenadaLatitud = "-20.452881" coordenadaLongitud = "57.312387">
+            <nombreHito>Le Morne Public Beach</nombreHito>
+            <descriptionHito>Esta preciosa playa de Mauricio es elegida cada año por deportistas de todo el mundo.</descriptionHito>
+            <distanciaHito>3.8 km</distanciaHito>
+            <fotografíaHito>"Beach.jpg"</fotografíaHito>
+        </hito>
+
+        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.452485" coordenadaLongitud = "57.323929">
+            <nombreHito>Dinarobin Beachcomber Golf Resort Spa </nombreHito>
+            <descriptionHito>Para acabar una parada relajante en el hotel spa.</descriptionHito>
+            <distanciaHito>500m</distanciaHito>
+            <fotografíaHito>"Hotel.jpg"</fotografíaHito>
+        </hito>
+    </ruta>
+
+
+    <ruta>
+        <nombre>Las 7 cascadas de Tamarín</nombre>
+        <tipo>Senderismo</tipo>
+        <medio>A Pie</medio>
+        <tiempo>5 horas 48 minutos</tiempo>
+        <agencia>Sin agencia</agencia>
+        <descripción>
+            La ruta es espectacular. Muy selvática y frondosa. Necesitarás calzado adecuado, repelente de mosquitos y, si quieres un bañador, porque podrás bañarte en muchas de las pozas de las cascadas.
+            La duración es de aproximadamente 5 horas si no te pierdes, ya que es complejo seguir la ruta exactamente.
+            Te aconsejarán ir con guía muchas veces, pero te ahorras entre 20 y 50€.
+            El esfuerzo merece la recompensa de la experiencia vivida, muy recomendable hacer la ruta si te gusta la aventura.
+        </descripción>
+        <personas>Expertos en senderismo</personas>
+        <lugarInicio>Templo del pueblo de Martha Mandir</lugarInicio>
+        <direccionInicio>Henrietta Branch Rd, Vacoas-Phoenix, Mauricio</direccionInicio>
+        <coordenadasInicio>-20.342524, 57.469927</coordenadasInicio>
+        <referencia>https://es.wikiloc.com/rutas-senderismo/7-cascadas-tamarin-falls-112808210</referencia>
+        <referencia>https://www.tripadvisor.es/Attraction_Review-g951345-d2290986-Reviews-Les_7_Cascades-Riviere_Noire.html</referencia>
+        <referencia>https://www.manawa.com/es-ES/actividad/isla-mauricio/black-river-gorges-tamarind-falls/senderismo/day-trip-to-the-7-waterfalls-of-tamarin-on-mauritius/8174</referencia>
+        <recomendación>8</recomendación>
+        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.342524" coordenadaLongitud = "57.469927">
+            <nombreHito>Templo del pueblo de Martha Mandir </nombreHito>
+            <descriptionHito>Templo.</descriptionHito>
+            <distanciaHito>0m</distanciaHito>
+            <fotografíaHito>"Templo.jpeg"</fotografíaHito>
+            <vídeoHito>"7 Cascadas.mp4"</vídeoHito>
+        </hito>
+
+        <hito coordenadaAltitud ="300" coordenadaLatitud = "-20.351427" coordenadaLongitud = "57.463216">
+            <nombreHito>Tamarin Fall 2 nd waterfall </nombreHito>
+            <descriptionHito>Cascada.</descriptionHito>
+            <distanciaHito>2.6km</distanciaHito>
+            <fotografíaHito>"2ndWaterfall.jpg"</fotografíaHito>
+        </hito>
+
+
+        <hito coordenadaAltitud ="323" coordenadaLatitud = "-20.354137" coordenadaLongitud = "57.467530">
+            <nombreHito>Henrietta Cemetery </nombreHito>
+            <descriptionHito>Cementerio.</descriptionHito>
+            <distanciaHito>1.5km</distanciaHito>
+            <fotografíaHito>"Cementerio.jpg"</fotografíaHito>
+        </hito>
+
+    </ruta>
+
+
+    <ruta>
+        <nombre>Parque Nacional Gargantas del Río Negro Mauricio</nombre>
+        <tipo>Senderismo</tipo>
+        <medio>A Pie</medio>
+        <fechaInicio>21 de agosto de 2023</fechaInicio>
+        <fechaFin>21 de agosto de 2023</fechaFin>
+        <tiempo>4 horas 3 minutos</tiempo>
+        <agencia>Sin agencia</agencia>
+        <descripción>
+            Sal a esta ruta circular de 8,5 km cerca de Curepipe, Distrito de Plaines Wilhems. Por lo general, se considera una ruta moderada, 
+            que se tarda una media de 2 h 31 min en recorrer. Esta ruta es popular para disfrutar de la observación de aves, el senderismo y MTB,
+            sin embargo, podrá disfrutar de algo de paz durante los momentos más tranquilos del día. La ruta está abierta todo el año y es perfecta 
+            para visitar en cualquier momento. Los perros son bienvenidos y pueden estar sin correa en algunas zonas</descripción>
+        <personas>Puede hacerse con niños mayores de 10 años</personas>
+        <lugarInicio>Domaine L’arbre du Voyageur</lugarInicio>
+        <direccionInicio>Mare Longue, Curepipe, Mauricio</direccionInicio>
+        <coordenadasInicio>-20.384608, 57.471639</coordenadasInicio>
+        <referencia>https://es.wikiloc.com/rutas-senderismo/bosque-macabeo-y-cascada-circular-mare-moderada-parque-nacional-gargantas-del-rio-negro-mauricio-144636175</referencia>
+        <referencia>https://es.wikiloc.com/rutas-a-pie/mare-longue-cascade-88213179/</referencia>
+        <referencia>https://www.alltrails.com/es/ruta/mauritius/plaines-wilhems/mare-lounge-reservoir-loop/</referencia>
+        <recomendación>9</recomendación>
+
+        <hito coordenadaAltitud ="100" coordenadaLatitud = "-20.388837" coordenadaLongitud = "57.479680">
+            <nombreHito>les Tipis de Mare Longue </nombreHito>
+            <descriptionHito>Hotel, bar, restaurante.</descriptionHito>
+            <distanciaHito>0m</distanciaHito>
+            <fotografíaHito>"Tipis.jpg"</fotografíaHito>
+        </hito>
+
+        <hito coordenadaAltitud ="120" coordenadaLatitud = "-20.385541" coordenadaLongitud = "57.471998">
+            <nombreHito>Domaine L’arbre du Voyageur </nombreHito>
+            <descriptionHito>Hotel.</descriptionHito>
+            <distanciaHito>1.7km</distanciaHito>
+            <fotografíaHito>"HotelArbre.jpg"</fotografíaHito>
+        </hito>
+
+        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.378318" coordenadaLongitud = "57.459484">
+            <nombreHito>Mare Longue Reservoir </nombreHito>
+            <descriptionHito>Lago.</descriptionHito>
+            <distanciaHito>1.5km</distanciaHito>
+            <fotografíaHito>"Lago.jpg"</fotografíaHito>
+        </hito>
+    </ruta>
+
+
+</rutas>
