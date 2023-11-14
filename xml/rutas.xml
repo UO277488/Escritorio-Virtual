@@ -27,16 +27,28 @@
         <referencia>https://www.turismoislamauricio.es/le-morne-brabant/</referencia>
         <referencia>https://www.civitatis.com/es/rio-negro/trekking-morne-brabant/</referencia>
         <recomendación>6</recomendación>
-
-        <hitos>
             
-            <hito coordenadaLatitud = "-20.446696" coordenadaLongitud = "57.330322" coordenadaAltitud = "556">
-                <nombreHito>Monte Le Morne</nombreHito>
-                <descriptionHito>Esta preciosa montaña de Mauricio es un paraíso natural que merece la pena visitar.</descriptionHito>
-                <distanciaHito>0.0km</distanciaHito>
-                <fotografíaHito>Barbant.jpg</fotografíaHito>
-            </hito>
-        </hitos>
+        <hito coordenadaAltitud ="556" coordenadaLatitud = "-20.452485" coordenadaLongitud = "57.323929">
+            <nombreHito>Monte Le Morne</nombreHito>
+            <descriptionHito>Esta preciosa montaña de Mauricio es un paraíso natural que merece la pena visitar.</descriptionHito>
+            <distanciaHito>7,5 km</distanciaHito>
+            <fotografíaHito>"Barbant.jpg"</fotografíaHito>
+            <vídeoHito>"Mauritius.mp4"</vídeoHito>
+        </hito>
+
+        <hito coordenadaAltitud ="0" coordenadaLatitud = "-20.452881" coordenadaLongitud = "57.312387">
+            <nombreHito>Le Morne Public Beach</nombreHito>
+            <descriptionHito>Esta preciosa playa de Mauricio es elegida cada año por deportistas de todo el mundo.</descriptionHito>
+            <distanciaHito>3.8 km</distanciaHito>
+            <fotografíaHito>"Beach.jpg"</fotografíaHito>
+        </hito>
+
+        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.452485" coordenadaLongitud = "57.323929">
+            <nombreHito>Dinarobin Beachcomber Golf Resort Spa </nombreHito>
+            <descriptionHito>Para acabar una parada relajante en el hotel spa.</descriptionHito>
+            <distanciaHito>500m</distanciaHito>
+            <fotografíaHito>"Hotel.jpg"</fotografíaHito>
+        </hito>
     </ruta>
 
 
@@ -59,9 +71,30 @@
         <referencia>https://es.wikiloc.com/rutas-senderismo/7-cascadas-tamarin-falls-112808210</referencia>
         <referencia>https://www.tripadvisor.es/Attraction_Review-g951345-d2290986-Reviews-Les_7_Cascades-Riviere_Noire.html</referencia>
         <referencia>https://www.manawa.com/es-ES/actividad/isla-mauricio/black-river-gorges-tamarind-falls/senderismo/day-trip-to-the-7-waterfalls-of-tamarin-on-mauritius/8174</referencia>
-        <recomendación>8/10</recomendación>
-        <hito nombre="Templo del pueblo de Martha Mandir" descripcion="Templo" coordenadas="-20.342524, 57.469927" distancia="0km" fotografía= "media\img\Templo.jpeg" vídeo="xml\media\video\7 Cascadas.mp4"></hito>
-        <hito nombre="Tamarin Fall 2 nd waterfall" descripcion="Cascada" coordenadas="-20.351427, 57.463216" distancia="2.6km" fotografía = "media\img\2ndWaterfall.jpg"></hito>
+        <recomendación>8</recomendación>
+        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.342524" coordenadaLongitud = "57.469927">
+            <nombreHito>Templo del pueblo de Martha Mandir </nombreHito>
+            <descriptionHito>Templo.</descriptionHito>
+            <distanciaHito>0m</distanciaHito>
+            <fotografíaHito>"Templo.jpeg"</fotografíaHito>
+            <vídeoHito>"7 Cascadas.mp4"</vídeoHito>
+        </hito>
+
+        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.351427" coordenadaLongitud = "57.463216">
+            <nombreHito>Tamarin Fall 2 nd waterfall </nombreHito>
+            <descriptionHito>Cascada.</descriptionHito>
+            <distanciaHito>2.6km</distanciaHito>
+            <fotografíaHito>"2ndWaterfall.jpg"</fotografíaHito>
+        </hito>
+
+
+        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.354137" coordenadaLongitud = "57.467530">
+            <nombreHito>Henrietta Cemetery </nombreHito>
+            <descriptionHito>Cementerio.</descriptionHito>
+            <distanciaHito>1.5km</distanciaHito>
+            <fotografíaHito>"Cementerio.jpg"</fotografíaHito>
+        </hito>
+
     </ruta>
 
 
