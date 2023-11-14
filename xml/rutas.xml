@@ -80,7 +80,7 @@
             <vídeoHito>"7 Cascadas.mp4"</vídeoHito>
         </hito>
 
-        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.351427" coordenadaLongitud = "57.463216">
+        <hito coordenadaAltitud ="300" coordenadaLatitud = "-20.351427" coordenadaLongitud = "57.463216">
             <nombreHito>Tamarin Fall 2 nd waterfall </nombreHito>
             <descriptionHito>Cascada.</descriptionHito>
             <distanciaHito>2.6km</distanciaHito>
@@ -88,7 +88,7 @@
         </hito>
 
 
-        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.354137" coordenadaLongitud = "57.467530">
+        <hito coordenadaAltitud ="323" coordenadaLatitud = "-20.354137" coordenadaLongitud = "57.467530">
             <nombreHito>Henrietta Cemetery </nombreHito>
             <descriptionHito>Cementerio.</descriptionHito>
             <distanciaHito>1.5km</distanciaHito>
@@ -118,8 +118,28 @@
         <referencia>https://es.wikiloc.com/rutas-senderismo/bosque-macabeo-y-cascada-circular-mare-moderada-parque-nacional-gargantas-del-rio-negro-mauricio-144636175</referencia>
         <referencia>https://es.wikiloc.com/rutas-a-pie/mare-longue-cascade-88213179/</referencia>
         <referencia>https://www.alltrails.com/es/ruta/mauritius/plaines-wilhems/mare-lounge-reservoir-loop/</referencia>
-        <recomendación>9/10</recomendación>
-        <hito nombre="Mare Longue Reservoir" descripcion="Lago" coordenadas="-20.378318, 57.459484" distancia="0km" fotografía= "media\img\Lago.jpg"></hito>
+        <recomendación>9</recomendación>
+
+        <hito coordenadaAltitud ="100" coordenadaLatitud = "-20.388837" coordenadaLongitud = "57.479680">
+            <nombreHito>les Tipis de Mare Longue </nombreHito>
+            <descriptionHito>Hotel, bar, restaurante.</descriptionHito>
+            <distanciaHito>0m</distanciaHito>
+            <fotografíaHito>"Tipis.jpg"</fotografíaHito>
+        </hito>
+
+        <hito coordenadaAltitud ="120" coordenadaLatitud = "-20.385541" coordenadaLongitud = "57.471998">
+            <nombreHito>Domaine L’arbre du Voyageur </nombreHito>
+            <descriptionHito>Hotel.</descriptionHito>
+            <distanciaHito>1.7km</distanciaHito>
+            <fotografíaHito>"HotelArbre.jpg"</fotografíaHito>
+        </hito>
+
+        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.378318" coordenadaLongitud = "57.459484">
+            <nombreHito>Mare Longue Reservoir </nombreHito>
+            <descriptionHito>Lago.</descriptionHito>
+            <distanciaHito>1.5km</distanciaHito>
+            <fotografíaHito>"Lago.jpg"</fotografíaHito>
+        </hito>
     </ruta>
 
 
