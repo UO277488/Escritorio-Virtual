@@ -51,18 +51,30 @@
       </xs:restriction>
     </xs:simpleType>
   </xs:element>
-  <xs:element name="hito">
+  <xs:element name="hitos">
     <xs:complexType>
-      <xs:simpleContent>
-        <xs:extension base="xs:string">
-          <xs:attribute name="nombre" type="xs:string" use="required" />
-          <xs:attribute name="descripcion" type="xs:string" use="required" />
-          <xs:attribute name="coordenadas" type="xs:string" use="required" />
-          <xs:attribute name="distancia" type="xs:string" use="required" />
-          <xs:attribute name="fotografía" type="xs:string" use="required" />
-          <xs:attribute name="vídeo" type="xs:string" />
-        </xs:extension>
-      </xs:simpleContent>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="hito" />
+      </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <xs:element name="hito">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nombreHito" />
+        <xs:element ref="descriptionHito" />
+        <xs:element ref="distanciaHito" />
+        <xs:element minOccurs="1" maxOccurs="unbounded" ref="fotografíaHito" />
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="vídeoHito" />
+      </xs:sequence>
+      <xs:attribute name="coordenadaLatitud" type="xs:string" use="required" />
+      <xs:attribute name="coordenadaLongitud" type="xs:string" use="required" />
+      <xs:attribute name="coordenadaAltitud" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nombreHito" type="xs:string" />
+  <xs:element name="descriptionHito" type="xs:string" />
+  <xs:element name="distanciaHito" type="xs:string" />
+  <xs:element name="fotografíaHito" type="xs:string" />
+  <xs:element name="vídeoHito" type="xs:string" />
 </xs:schema>
