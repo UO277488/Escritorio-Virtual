@@ -41,7 +41,16 @@
   <xs:element name="direccionInicio" type="xs:string" />
   <xs:element name="coordenadasInicio" type="xs:string" />
   <xs:element name="referencia" type="xs:string" />
-  <xs:element name="recomendación" type="xs:string" />
+  <xs:element name="recomendación">
+    <xs:simpleType>
+      <!-- Definición de un tipo de dato que es un número entero -->
+      <xs:restriction base="xs:integer">
+        <!-- Restricción para limitar el valor entre 0 y 10 -->
+        <xs:minInclusive value="0"/>
+        <xs:maxInclusive value="10"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
   <xs:element name="hito">
     <xs:complexType>
       <xs:simpleContent>
