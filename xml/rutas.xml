@@ -4,75 +4,73 @@
 
 
     <ruta>
-        <nombre>Black River - L'Embasure</nombre>
+        <nombre>Travesía de Apaneca: Cerro Grande de Apaneca, Laguna de Las Ninfas y Laguna Verde</nombre>
         <tipo>Senderismo</tipo>
         <medio>A Pie</medio>
-        <fechaInicio>8:33 21 ago. 2019</fechaInicio>
-        <fechaFin>13:37 21 ago. 2019</fechaFin>
-        <tiempo>5 horas 3 minutos</tiempo>
+        <fechaInicio>16 de septiembre de 2022</fechaInicio>
+        <fechaFin>16 de septiembre de 2022</fechaFin>
+        <tiempo>3 horas 36 minutos</tiempo>
         <agencia>Sin agencia</agencia>
         <descripción>
-            Comenzamos por la playa hasta el final de la misma. Allí optamos por coger una senda que sale hacia arriba y nos ahorramos un tramo de recorrido. Otra opción es continuar por el camino del borde del mar y después hacer un giro a la izquierda. El camino no tiene pérdida, es ancho y está muy transitado porque sube mucha gente a pie.
-            El último tramo de la ruta, desde una curva a izquierda antes de una larga recta (en el trak) es una "trepada técnica", se sube por una canal de piedra y de ahí a la cumbre hay varios resaltes en los que no nos podemos caer.
-            Lo digo porque sube mucha gente, nosotros tuvimos que hacer varias paradas para dejar pasará gente. Y además, el 90% de la gente no va preparada.
-            Importante: llevar buen calzado y agua, el sol pega en toda la zona de roca.
-            Cuidado: si el viento es fuerte y sobre todo, si está húmeda la roca.
-            La gente que no se vea capacitada, puede llegar hasta el inicio de la roca (está indicado con unos paneles) y ver el mirador que tiene un banco, las vistas son bonitas, y el otro mirador anterior con otro banco
-        </descripción>
-        <personas>Personas en buena forma física</personas>
-        <lugarInicio>Hotel Riu Creole (Le Morne)</lugarInicio>
-        <direccionInicio>Pointe Sud Ouest, MU, Le Morne 91202, Mauricio</direccionInicio>
-        <coordenadasInicio>-20.467220, 57.313791</coordenadasInicio>
-        <referencia>https://es.wikiloc.com/rutas-senderismo/le-morne-isla-mauricio-40326405</referencia>
-        <referencia>https://www.turismoislamauricio.es/le-morne-brabant/</referencia>
-        <referencia>https://www.civitatis.com/es/rio-negro/trekking-morne-brabant/</referencia>
+            Considero que la ruta es de un nivel intermedio a difícil dependiendo de la velocidad con la que quieran hacer esta ruta.
+            Se puede hacer a paso suave descansando, no hay demasiadas inclinaciones a excepción del Cerro Grande de Apaneca.
+            Más adelante repetiré esta ruta con las 3 cumbres oficiales de la Sociedad Amigos de la Montaña (SAM).
+            Si alguien tiene dudas con gusto puede contactarme.</descripción>
+        <personas>Personas en relativa forma física</personas>
+        <lugarInicio>Medi Express</lugarInicio>
+        <direccionInicio>3a Avenida Sur, Apaneca, El Salvador</direccionInicio>
+        <coordenadasInicio>13.858168, -89.805729</coordenadasInicio>
+        <referencia>https://es.wikiloc.com/rutas-senderismo/travesia-de-apaneca-cerro-grande-de-apaneca-laguna-de-las-ninfas-y-laguna-verde-113755632</referencia>
+        <referencia>https://www.alltrails.com/es/ruta/el-salvador/ahuachapan/quinteta-de-apaneca</referencia>
+        <referencia>https://juanlievano.com/volcanes/laguna-verde-y-las-ninfas/</referencia>
         <recomendación>6</recomendación>
             
-        <hito coordenadaAltitud ="556" coordenadaLatitud = "-20.452485" coordenadaLongitud = "57.323929">
-            <nombreHito>Monte Le Morne</nombreHito>
-            <descriptionHito>Esta preciosa montaña de Mauricio es un paraíso natural que merece la pena visitar.</descriptionHito>
-            <distanciaHito>7,5 km</distanciaHito>
-            <fotografíaHito>"Barbant.jpg"</fotografíaHito>
-            <vídeoHito>"Mauritius.mp4"</vídeoHito>
+        <hito coordenadaAltitud ="1.833 m" coordenadaLatitud = "13.841377" coordenadaLongitud = "-89.798584">
+            <nombreHito>Torre de comunicaciones</nombreHito>
+            <descriptionHito>Impactante torre de comunicaciones en lo alto del cerro.</descriptionHito>
+            <distanciaHito>3.7 km</distanciaHito>
+            <fotografíaHito>"Ruta1-1-1.jpg"</fotografíaHito>
+            <fotografíaHito>"Ruta1-1-2.jpg"</fotografíaHito>
         </hito>
 
-        <hito coordenadaAltitud ="0" coordenadaLatitud = "-20.452881" coordenadaLongitud = "57.312387">
-            <nombreHito>Le Morne Public Beach</nombreHito>
-            <descriptionHito>Esta preciosa playa de Mauricio es elegida cada año por deportistas de todo el mundo.</descriptionHito>
-            <distanciaHito>3.8 km</distanciaHito>
-            <fotografíaHito>"Beach.jpg"</fotografíaHito>
+        <hito coordenadaAltitud ="1.841 m" coordenadaLatitud = "13.841614" coordenadaLongitud = "-89.799545">
+            <nombreHito>Cumbre!!!</nombreHito>
+            <descriptionHito>Placa oficial de Sociedad Amigos de la Montaña (SAM).</descriptionHito>
+            <distanciaHito>1.1 km</distanciaHito>
+            <fotografíaHito>"Ruta1-2-1.jpg"</fotografíaHito>
         </hito>
 
-        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.452485" coordenadaLongitud = "57.323929">
-            <nombreHito>Dinarobin Beachcomber Golf Resort Spa </nombreHito>
-            <descriptionHito>Para acabar una parada relajante en el hotel spa.</descriptionHito>
-            <distanciaHito>500m</distanciaHito>
-            <fotografíaHito>"Hotel.jpg"</fotografíaHito>
+        <hito coordenadaAltitud ="1.620 m" coordenadaLatitud = "13.891120" coordenadaLongitud = "-89.788345">
+            <nombreHito>Centro de conservación Laguna Verde </nombreHito>
+            <descriptionHito>Un punto de descanso precioso a la orilla de un lago.</descriptionHito>
+            <distanciaHito>9km</distanciaHito>
+            <fotografíaHito>"Ruta1-3-1.jpg"</fotografíaHito>
+            <fotografíaHito>"Ruta1-3-2.jpg"</fotografíaHito>
         </hito>
     </ruta>
 
 
     <ruta>
-        <nombre>Las 7 cascadas de Tamarín</nombre>
+        <nombre>Volcan Santa Ana.</nombre>
         <tipo>Senderismo</tipo>
-        <medio>A Pie</medio>
-        <tiempo>5 horas 48 minutos</tiempo>
-        <agencia>Sin agencia</agencia>
+        <medio>En autobús</medio>
+        <tiempo>8 horas 14 minutos</tiempo>
+        <agencia>Con guía y agencia propias</agencia>
         <descripción>
-            La ruta es espectacular. Muy selvática y frondosa. Necesitarás calzado adecuado, repelente de mosquitos y, si quieres un bañador, porque podrás bañarte en muchas de las pozas de las cascadas.
-            La duración es de aproximadamente 5 horas si no te pierdes, ya que es complejo seguir la ruta exactamente.
-            Te aconsejarán ir con guía muchas veces, pero te ahorras entre 20 y 50€.
-            El esfuerzo merece la recompensa de la experiencia vivida, muy recomendable hacer la ruta si te gusta la aventura.
+            Ascenso al volcán Salta Ana desde Cerro Verde.
+            Se toma el bus 248 desde la terminal de la vencedora que lleva hasta la entrada del parque nacional Cerro Verde, la entrada es de 4 dólares y guía por un dolar.
+            Frente a la terminal hay un comedor , recomiendo comprar pupusas por un dólar y llevarlas para el almuerzo, son ricas y prácticas.
+            El bus de regreso sale a las 16 horas en punto del parque.
         </descripción>
-        <personas>Expertos en senderismo</personas>
-        <lugarInicio>Templo del pueblo de Martha Mandir</lugarInicio>
-        <direccionInicio>Henrietta Branch Rd, Vacoas-Phoenix, Mauricio</direccionInicio>
-        <coordenadasInicio>-20.342524, 57.469927</coordenadasInicio>
-        <referencia>https://es.wikiloc.com/rutas-senderismo/7-cascadas-tamarin-falls-112808210</referencia>
-        <referencia>https://www.tripadvisor.es/Attraction_Review-g951345-d2290986-Reviews-Les_7_Cascades-Riviere_Noire.html</referencia>
-        <referencia>https://www.manawa.com/es-ES/actividad/isla-mauricio/black-river-gorges-tamarind-falls/senderismo/day-trip-to-the-7-waterfalls-of-tamarin-on-mauritius/8174</referencia>
+        <personas>Se puede ir con niños</personas>
+        <lugarInicio>Sala de Espera y Abordaje "LA VENCEDORA"</lugarInicio>
+        <direccionInicio>Santa Ana, El Salvador</direccionInicio>
+        <coordenadasInicio>13.991355, -89.564513</coordenadasInicio>
+        <referencia>https://es.wikiloc.com/rutas-senderismo/volcan-santa-ana-25969691</referencia>
+        <referencia>https://www.alltrails.com/es/ruta/el-salvador/santa-ana/volcan-de-santa-ana</referencia>
+        <referencia>https://es.wikiloc.com/rutas-senderismo/volcan-santa-ana-ilamatepec-19594764</referencia>
         <recomendación>8</recomendación>
-        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.342524" coordenadaLongitud = "57.469927">
+        <hito coordenadaAltitud ="2.005m" coordenadaLatitud = "13.825740" coordenadaLongitud = "-89.624771">
             <nombreHito>Templo del pueblo de Martha Mandir </nombreHito>
             <descriptionHito>Templo.</descriptionHito>
             <distanciaHito>0m</distanciaHito>
