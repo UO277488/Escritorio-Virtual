@@ -70,28 +70,34 @@
         <referencia>https://www.alltrails.com/es/ruta/el-salvador/santa-ana/volcan-de-santa-ana</referencia>
         <referencia>https://es.wikiloc.com/rutas-senderismo/volcan-santa-ana-ilamatepec-19594764</referencia>
         <recomendación>8</recomendación>
-        <hito coordenadaAltitud ="2.005m" coordenadaLatitud = "13.825740" coordenadaLongitud = "-89.624771">
-            <nombreHito>Templo del pueblo de Martha Mandir </nombreHito>
-            <descriptionHito>Templo.</descriptionHito>
+
+
+        <hito coordenadaAltitud ="831" coordenadaLatitud = "13.857691" coordenadaLongitud = "-89.518036"> 
+
+            <nombreHito>Mirador El Carboncito </nombreHito>
+            <descriptionHito>Mirador/restaurante.</descriptionHito>
+            <distanciaHito>25km</distanciaHito>
+            <fotografíaHito>"Ruta2-1-1.jpg"</fotografíaHito>
+        </hito>
+
+        <hito coordenadaAltitud ="1.817" coordenadaLatitud = "13.826696" coordenadaLongitud = "-89.624569"> 
+            <nombreHito>Mirador Complejo Los Volcanes </nombreHito>
+            <descriptionHito>Mirador</descriptionHito>
+            <distanciaHito>21.6km</distanciaHito>
+            <fotografíaHito>"Ruta2-2-1.jpg"</fotografíaHito>
+        </hito>
+        <hito coordenadaAltitud ="2.385m" coordenadaLatitud = "13.849736" coordenadaLongitud = "-89.628606"> 
+            <nombreHito>Volcán de Santa Ana</nombreHito>
+            <descriptionHito>Volcán.</descriptionHito>
             <distanciaHito>0m</distanciaHito>
-            <fotografíaHito>"Templo.jpeg"</fotografíaHito>
+            <fotografíaHito>"Ruta2-3-1.jpg"</fotografíaHito>
             <vídeoHito>"7 Cascadas.mp4"</vídeoHito>
         </hito>
 
-        <hito coordenadaAltitud ="300" coordenadaLatitud = "-20.351427" coordenadaLongitud = "57.463216">
-            <nombreHito>Tamarin Fall 2 nd waterfall </nombreHito>
-            <descriptionHito>Cascada.</descriptionHito>
-            <distanciaHito>2.6km</distanciaHito>
-            <fotografíaHito>"2ndWaterfall.jpg"</fotografíaHito>
-        </hito>
+        
 
 
-        <hito coordenadaAltitud ="323" coordenadaLatitud = "-20.354137" coordenadaLongitud = "57.467530">
-            <nombreHito>Henrietta Cemetery </nombreHito>
-            <descriptionHito>Cementerio.</descriptionHito>
-            <distanciaHito>1.5km</distanciaHito>
-            <fotografíaHito>"Cementerio.jpg"</fotografíaHito>
-        </hito>
+        
 
     </ruta>
 
