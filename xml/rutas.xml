@@ -91,58 +91,52 @@
             <descriptionHito>Volcán.</descriptionHito>
             <distanciaHito>0m</distanciaHito>
             <fotografíaHito>"Ruta2-3-1.jpg"</fotografíaHito>
-            <vídeoHito>"7 Cascadas.mp4"</vídeoHito>
         </hito>
-
-        
-
-
-        
 
     </ruta>
 
 
     <ruta>
-        <nombre>Parque Nacional Gargantas del Río Negro Mauricio</nombre>
-        <tipo>Senderismo</tipo>
-        <medio>A Pie</medio>
-        <fechaInicio>21 de agosto de 2023</fechaInicio>
-        <fechaFin>21 de agosto de 2023</fechaFin>
-        <tiempo>4 horas 3 minutos</tiempo>
+        <nombre>Desvío San Martín - Poliedro Lourdes</nombre>
+        <tipo>Ruta en coche</tipo>
+        <medio>En coche</medio>
+        <fechaInicio>4 de octubre de 2020</fechaInicio>
+        <fechaFin>4 de octubre de 2020</fechaFin>
+        <tiempo>45 minutos</tiempo>
         <agencia>Sin agencia</agencia>
         <descripción>
-            Sal a esta ruta circular de 8,5 km cerca de Curepipe, Distrito de Plaines Wilhems. Por lo general, se considera una ruta moderada, 
-            que se tarda una media de 2 h 31 min en recorrer. Esta ruta es popular para disfrutar de la observación de aves, el senderismo y MTB,
-            sin embargo, podrá disfrutar de algo de paz durante los momentos más tranquilos del día. La ruta está abierta todo el año y es perfecta 
-            para visitar en cualquier momento. Los perros son bienvenidos y pueden estar sin correa en algunas zonas</descripción>
-        <personas>Puede hacerse con niños mayores de 10 años</personas>
-        <lugarInicio>Domaine L’arbre du Voyageur</lugarInicio>
-        <direccionInicio>Mare Longue, Curepipe, Mauricio</direccionInicio>
-        <coordenadasInicio>-20.384608, 57.471639</coordenadasInicio>
-        <referencia>https://es.wikiloc.com/rutas-senderismo/bosque-macabeo-y-cascada-circular-mare-moderada-parque-nacional-gargantas-del-rio-negro-mauricio-144636175</referencia>
-        <referencia>https://es.wikiloc.com/rutas-a-pie/mare-longue-cascade-88213179/</referencia>
-        <referencia>https://www.alltrails.com/es/ruta/mauritius/plaines-wilhems/mare-lounge-reservoir-loop/</referencia>
+            Revisión ruta por cierre en desvío de Opico - Viajes de CR / ES destino GT</descripción>
+        <personas>Cualquiera</personas>
+        <lugarInicio>Villa Delgado</lugarInicio>
+        <direccionInicio>Carretera panamericana San Salvador CP, 1101, El Salvador</direccionInicio>
+        <coordenadasInicio>13.736652, -89.047458</coordenadasInicio>
+        <referencia>https://es.wikiloc.com/rutas-coche/desvio-san-martin-poliedro-lourdes-57991594</referencia>
+        <referencia>https://es.wikipedia.org/wiki/Carretera_Panamericana</referencia>
+        <referencia>https://consuladodeelsalvador.info/san-salvador-la-capital/</referencia>
         <recomendación>9</recomendación>
 
-        <hito coordenadaAltitud ="100" coordenadaLatitud = "-20.388837" coordenadaLongitud = "57.479680">
-            <nombreHito>les Tipis de Mare Longue </nombreHito>
-            <descriptionHito>Hotel, bar, restaurante.</descriptionHito>
-            <distanciaHito>0m</distanciaHito>
-            <fotografíaHito>"Tipis.jpg"</fotografíaHito>
+
+        <hito coordenadaAltitud ="800" coordenadaLatitud = "13.689867" coordenadaLongitud = "-89.233011">
+            <nombreHito>Mercado Nacional de Artesanías </nombreHito>
+            <descriptionHito>Mercado de artesanías.</descriptionHito>
+            <distanciaHito>23.4km</distanciaHito>
+            <fotografíaHito>"Ruta3-1-1.jpg"</fotografíaHito>
         </hito>
 
-        <hito coordenadaAltitud ="120" coordenadaLatitud = "-20.385541" coordenadaLongitud = "57.471998">
-            <nombreHito>Domaine L’arbre du Voyageur </nombreHito>
-            <descriptionHito>Hotel.</descriptionHito>
-            <distanciaHito>1.7km</distanciaHito>
-            <fotografíaHito>"HotelArbre.jpg"</fotografíaHito>
+        <hito coordenadaAltitud ="800" coordenadaLatitud = "13.688349" coordenadaLongitud = "-89.232556">
+            <nombreHito>Parque Nacional de Pelota Saturnino Bengoa </nombreHito>
+            <descriptionHito>Campo de Baseball.</descriptionHito>
+            <distanciaHito>200m</distanciaHito>
+            <fotografíaHito>"Ruta3-2-1.jpg"</fotografíaHito>
         </hito>
 
-        <hito coordenadaAltitud ="30" coordenadaLatitud = "-20.378318" coordenadaLongitud = "57.459484">
-            <nombreHito>Mare Longue Reservoir </nombreHito>
-            <descriptionHito>Lago.</descriptionHito>
-            <distanciaHito>1.5km</distanciaHito>
-            <fotografíaHito>"Lago.jpg"</fotografíaHito>
+        
+
+        <hito coordenadaAltitud ="780" coordenadaLatitud = "13.682048" coordenadaLongitud = "-89.241874">
+            <nombreHito>Basílica Nuestra Señora de Guadalupe, La Ceiba</nombreHito>
+            <descriptionHito>Iglesia.</descriptionHito>
+            <distanciaHito>0.5km</distanciaHito>
+            <fotografíaHito>"Ruta3-3-1.jpg"</fotografíaHito>
         </hito>
     </ruta>
 
